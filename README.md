@@ -15,6 +15,8 @@ No API key. No sign-up. No setup.
 
 ## How to make yours
 
+### 👉 [**Copy the prompt →**](PROMPT.md)
+
 Go to any AI app builder — **[Google AI Studio](https://aistudio.google.com)**,
 Lovable, Replit, Emergent, Bolt — and do two things:
 
